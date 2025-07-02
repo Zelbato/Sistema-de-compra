@@ -1,0 +1,15 @@
+{
+    "name": "heito/sistema-de-compra",
+    "autoload": {
+        "psr-4": {
+            "Heito\\SistemaDeCompra\\": "public/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Heitor Zelbato",
+            "email": "heitorzelbato@gmail.com"
+        }
+    ],
+    "require": {}
+}
