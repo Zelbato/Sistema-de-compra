@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Public</title>
+  <meta charset="UTF-8">
+  <title>Projeto PHP + Vite</title>
+  <!-- Linka o CSS servido pelo Vite -->
+  <link rel="stylesheet" href="/src/styles/main.scss">
 </head>
 <body>
-    <h1>Ola mundo</h1>
+  <h1>Funcionando com Vite + PHP!</h1>
 </body>
 </html>
